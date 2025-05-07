@@ -21,10 +21,10 @@ I am a student with a strong foundation in software development, gained through 
 
 ### 🔧 Technologies & Tools  
 <p align="center">
-  <img src="https://img.icons8.com/color/452/c-sharp-logo.png" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/python.png" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/react-native.png" alt="React" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/mysql-logo.png" alt="SQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/git.png" alt="Git" width="50" height="50"/>
