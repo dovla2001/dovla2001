@@ -44,10 +44,14 @@ I am a student with a strong foundation in software development, gained through 
 ---
 
 ### 📫 Get in Touch  
-<p align="center"> 📧 Email: <a href="mailto:vmandic83@gmail.com">vmandic83@gmail.com</a> <br><br> <a href="https://www.linkedin.com/in/vladimirmandi%C4%87/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"> </a> </p>
-
-
-
+<p align="center"> 📧 Email: <a href="mailto:vmandic83@gmail.com">vmandic83@gmail.com</a> 
+  <br><br> 
+  <a href="https://www.linkedin.com/in/vladimirmandi%C4%87/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"> 
+  </a> 
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40">
+  </a>
+</p>
 
 
 ---
