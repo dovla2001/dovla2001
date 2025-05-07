@@ -73,8 +73,8 @@ Aspiring software engineering student with practical experience in developing we
 ### 🚀 My Projects  
 - [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking
 - [ Student Services Website](https://github.com/dovla2001/Student-Services-Website) - Designed a website for the student department where three types of users can log in: students, administrators, and professors.
-- [Load Balancing](https://github.com/dovla2001/IKP-Projekat) - Load Balancing in C programming language with Round Robin algorithm
-
+- [Load Balancing](https://github.com/dovla2001/IKP-Projekat) - Load Balancing in C programming language with Round Robin algorithm.
+- [Information Secirity](https://github.com/dovla2001/OIBIS_Projekat) - A project in Information Security that uses authentication, authorization, and certificates ensures secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
 ---
 
 ⭐️ **Feel free to explore my repositories and connect with me!**
