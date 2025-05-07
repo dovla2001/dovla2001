@@ -51,6 +51,7 @@ Aspiring software engineering student with practical experience in developing we
    <a href="mailto:vmandic83@gmail.com">
     <img src="https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Email" width="50" height="50">
   </a>
+  <br>
   <a href="mailto:vmandic83@gmail.com" style="font-size: 18px; text-decoration: none; margin-left: 10px; color: #D14836;">
     vmandic83@gmail.com
   </a>  
