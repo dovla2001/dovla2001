@@ -70,6 +70,11 @@ Aspiring software engineering student with practical experience in developing we
 
 ---
 
+### 📊 My Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaseKorisnickoIme&layout=compact&theme=radical)
+
+
 ### 🚀 My Projects  
 - [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking
 - [ Student Services Website](https://github.com/dovla2001/Student-Services-Website) - Designed a website for the student department where three types of users can log in: students, administrators, and professors.
