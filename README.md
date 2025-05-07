@@ -78,7 +78,3 @@ Aspiring software engineering student with practical experience in developing we
 ---
 
 ⭐️ **Feel free to explore my repositories and connect with me!**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200">
-</p>
