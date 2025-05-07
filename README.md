@@ -20,17 +20,18 @@ I am a student with a strong foundation in software development, gained through 
 ---
 
 ### 🔧 Technologies & Tools  
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<p align="center">
+  <img src="https://img.icons8.com/ios/452/c-sharp-logo.png" alt="C#" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/dot-net.png" alt=".NET" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/react-native.png" alt="React" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/mysql-logo.png" alt="SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/scikit-learn.png" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios/452/pytorch.png" alt="PyTorch" width="50" height="50"/>
 </p>
+
 
 ---
 
