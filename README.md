@@ -9,13 +9,12 @@
 ---
 
 ### 💡 About Me  
-I am a student with a strong foundation in software development, gained through academic projects and practical experience. My main interests include:  
+Aspiring software engineering student with practical experience in developing web and desktop applications, working with databases, and exposure to machine learning. From my course of study, I gained knowledge of C#,.NET Core and modern practices such as SOLID principles and object-oriented programming in detail. In particular, I'm interested in coding web applications using JavaScript and React. I also want to improve my skills in web and desktop application development, with focus on the .NET platform. My main interests include:  
 - 🧩 **Object-Oriented Programming (OOP)**  
 - 🌐 **Web Development**  
 - 🗃️ **Database Management**  
 - 🤖 **Machine Learning**  
 - ⚙️ **Software Engineering Principles**  
-- 📊 **Data Analysis**  
 
 ---
 
