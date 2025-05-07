@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/jnO1ulwEQuyGk/giphy.gif" width="300" height="200">
-</p>
-
 <h1 align="center">Hi, I'm Vladimir Mandić 👋</h1>
 
 <p align="center">
