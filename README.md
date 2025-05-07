@@ -60,7 +60,7 @@ Aspiring software engineering student with practical experience in developing we
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vladimirmandic&show_icons=true&theme=radical" width="400">
   
 </p>
