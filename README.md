@@ -28,8 +28,7 @@ I am a student with a strong foundation in software development, gained through 
   <img src="https://img.icons8.com/color/452/react-native.png" alt="React" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/mysql-logo.png" alt="SQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/git.png" alt="Git" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/scikit-learn.png" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/pytorch.png" alt="PyTorch" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VisualStudioCode" width="50" height="50"/>
 </p>
 
