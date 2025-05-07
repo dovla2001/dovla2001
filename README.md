@@ -47,7 +47,7 @@ Aspiring software engineering student with practical experience in developing we
 ---
 
 ### 📫 Contact Me
-<p align="center"> 📧 Email: <a href="mailto:vmandic83@gmail.com">vmandic83@gmail.com</a> 
+<p align="left"> 📧 Email: <a href="mailto:vmandic83@gmail.com">vmandic83@gmail.com</a> 
   <br><br> 
   <a href="https://www.linkedin.com/in/vladimirmandi%C4%87/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"> 
   </a> 
