@@ -73,6 +73,7 @@ Aspiring software engineering student with practical experience in developing we
 ### 🚀 My Projects  
 - [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking
 - [ Student Services Website](https://github.com/dovla2001/Student-Services-Website) - Designed a website for the student department where three types of users can log in: students, administrators, and professors.
+- [Load Balancing](https://github.com/dovla2001/IKP-Projekat) - Load Balancing in C programming language with Round Robin algorithm
 
 ---
 
