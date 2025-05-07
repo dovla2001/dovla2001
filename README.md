@@ -71,7 +71,7 @@ Aspiring software engineering student with practical experience in developing we
 ---
 
 ### 🚀 My Projects  
-- [Taxi Application](https://github.com/vladimirmandic/taxi-app) - Multi-layered web application for ride booking  
+- [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking  
 - [Machine Learning Models](https://github.com/vladimirmandic/ml-models) - Examples of regression and clustering with Scikit-learn  
 - [Service Fabric Microservices](https://github.com/vladimirmandic/service-fabric) - Scalable microservice architecture  
 
