@@ -61,8 +61,7 @@ Aspiring software engineering student with practical experience in developing we
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladimirmandic&show_icons=true&theme=radical" width="400">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=vladimirmandic&show_icons=true&theme=radical" width="400">  
 </p>
 
 ---
@@ -78,6 +77,7 @@ Aspiring software engineering student with practical experience in developing we
 - [ Student Services Website](https://github.com/dovla2001/Student-Services-Website) - Designed a website for the student department where three types of users can log in: students, administrators, and professors.
 - [Load Balancing](https://github.com/dovla2001/IKP-Projekat) - Load Balancing in C programming language with Round Robin algorithm.
 - [Information Secirity](https://github.com/dovla2001/OIBIS_Projekat) - A project in Information Security that uses authentication, authorization, and certificates ensures secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
+
 ---
 
 ⭐️ **Feel free to explore my repositories and connect with me!**
