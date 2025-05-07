@@ -72,7 +72,7 @@ Aspiring software engineering student with practical experience in developing we
 
 ### 📊 My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaseKorisnickoIme&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovla2001&layout=compact&theme=radical)
 
 
 ### 🚀 My Projects  
