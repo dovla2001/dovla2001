@@ -45,7 +45,7 @@ I am a student with a strong foundation in software development, gained through 
 
 ### 📫 Get in Touch  
 <p align="center">
-  <a href="mailto:vladimir.mandic@example.com">
+  <a href="mailto:vmandic83@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/vladimirmandic">
