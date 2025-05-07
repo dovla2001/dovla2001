@@ -9,7 +9,7 @@
 ---
 
 ### 💡 About Me  
-I am an aspiring software engineering student with practical experience in developing both web and desktop applications, working with databases, and gaining exposure to machine learning. Through my course of study, I have acquired in-depth knowledge of C#, .NET Core, and modern software development practices like SOLID principles and object-oriented programming. I am particularly passionate about coding web applications using JavaScript and React. Moving forward, I am eager to continue improving my skills in web and desktop application development, with a focus on the .NET platform.My main interests include:  
+I am an aspiring software engineering student with practical experience in developing both web and desktop applications, working with databases, and gaining exposure to machine learning. Through my course of study, I have acquired in-depth knowledge of C#, .NET Core, and modern software development practices like SOLID principles and object-oriented programming. I am particularly passionate about coding web applications using JavaScript and React. Moving forward, I am eager to continue improving my skills in web and desktop application development, with a focus on the .NET platform. My main interests include:  
 - 🧩 **Object-Oriented Programming (OOP)**  
 - 🌐 **Web Development**  
 - 🗃️ **Database Management**  
