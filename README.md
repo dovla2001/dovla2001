@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Vladimir Mandić. I'm a software engineering student at Faculty of Tehnical Science in Novi Sad 
 
 <!--
 **dovla2001/dovla2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
