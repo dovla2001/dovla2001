@@ -37,7 +37,7 @@ I am a student with a strong foundation in software development, gained through 
 ---
 
 ### 🌱 Currently Learning  
-- Advanced Machine Learning Techniques  
+- Machine Learning Techniques  
 - Backend Development with ASP.NET Core  
 - Improving my English skills  
 
