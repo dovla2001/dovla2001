@@ -37,9 +37,6 @@ Aspiring software engineering student with practical experience in developing we
 </p>
 
 
-
-
-
 ---
 
 ### 🌱 Currently Learning  
@@ -74,6 +71,7 @@ Aspiring software engineering student with practical experience in developing we
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovla2001&layout=compact&theme=radical)
 
+---
 
 ### 🚀 My Projects  
 - [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking
