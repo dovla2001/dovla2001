@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Vladimir Mandić 👋</h1>
 
 <p align="center">
-  🎓 Student at Faculty of Technical Sciences, University of Novi Sad <br>
+  🎓 BSc in Electrical and Computer Engineering, University of Novi Sad <br>
   💻 Passionate about software development and machine learning <br>
-  🚀 Always eager to learn and explore new technologies
 </p>
 
 ---
@@ -14,7 +13,6 @@ I am an aspiring software engineering student with practical experience in devel
 - 🌐 **Web Development**  
 - 🗃️ **Database Management**  
 - 🤖 **Machine Learning**  
-- ⚙️ **Software Engineering Principles**  
 
 ---
 
@@ -32,7 +30,6 @@ I am an aspiring software engineering student with practical experience in devel
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="OracleDataBase" width="50" height="50"/>
-  <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" width="100" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VisualStudioCode" width="50" height="50"/>
 </p>
 
@@ -57,14 +54,6 @@ I am an aspiring software engineering student with practical experience in devel
   <a href="https://www.instagram.com/__dovlaa___/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40">
   </a>
-</p>
-
-
----
-
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladimirmandic&show_icons=true&theme=radical" width="400">  
 </p>
 
 ---
