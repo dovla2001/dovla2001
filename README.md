@@ -1,17 +1,19 @@
-<h1 align="center">Hi, I'm Vladimir Mandić 👋</h1>
+<h1 align="center">Vladimir Mandić</h1>
 
 <p align="center">
-  🎓 BSc in Electrical and Computer Engineering, University of Novi Sad <br>
+  Software Engineer | .NET Developer <br>
 </p>
 
 ---
 
 ### 💡 About Me  
+<p align="center">
 Software Engineering graduate with a solid academic and practical background in the development of web and desktop
 applications, database communication, and machine learning. Proficient in C , .NET Core, and modern development
 practices, including SOLID principles and object-oriented design. Proficient in designing user-centered and performancedriven applications, with an aspiration to develop scalable solutions using both frontend and backend technologies. Particularly interested in modern web development using JavaScript and Angular, and a continued enthusiasm for learning
 and applying best practices. Motivated to further develop skills in web and desktop application development, specifically in
 the .NET environment, and contribute to leading-edge and innovative software projects.
+</p>
 ---
 
 ### 🔧 Technologies & Tools  
