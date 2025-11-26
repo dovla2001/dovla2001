@@ -31,42 +31,12 @@ Development Environments:  Visual Studio, VS Code
 - Implemented using **Clean Architecture**, **ASP.NET Core**, **MediatR**, **FastEndpoints**, and **Angular**.  
 - Focused on creating a scalable and maintainable codebase following best practices.
 
-Technologies & Tools  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/python.png" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/react-native.png" alt="React" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/mysql-logo.png" alt="SQL" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/git.png" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="OracleDataBase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VisualStudioCode" width="50" height="50"/>
-</p>
-
 <h3>CONECT ME</h3>
 
-- **Instagram**: [vladimir_tech](https://www.instagram.com/__dovla___)
-- **Email**: [vladimir.mandic@email.com](mailto:vmandic83@gmail.com)
+- **Instagram**: [__dovlaa___](https://www.instagram.com/__dovla___)
+- **Email**: [vmandic83@gmail.com](mailto:vmandic83@gmail.com)
 - **LinkedIn**: [Vladimir Mandić](https://www.linkedin.com/in/vladimirmandi%C4%87/)
 
-
-Contact Me
-<p align="left">
-  <a href="mailto:vmandic83@gmail.com" style="font-size: 18px; text-decoration: none; margin-left: 10px; color: #D14836;">
-    vmandic83@gmail.com
-  </a>  
-  <br><br>
-  <a href="https://www.linkedin.com/in/vladimirmandi%C4%87/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"> 
-  </a> 
-  <a href="https://www.instagram.com/__dovlaa___/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40">
-  </a>
-</p>
 
  My Projects  
 - [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking
