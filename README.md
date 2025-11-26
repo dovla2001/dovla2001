@@ -31,10 +31,6 @@ Development Environments:  Visual Studio, VS Code
 - Implemented using **Clean Architecture**, **ASP.NET Core**, **MediatR**, **FastEndpoints**, and **Angular**.  
 - Focused on creating a scalable and maintainable codebase following best practices.
 
-
-
-
-
 Technologies & Tools  
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET" width="50" height="50"/>
@@ -51,6 +47,13 @@ Technologies & Tools
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="OracleDataBase" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VisualStudioCode" width="50" height="50"/>
 </p>
+
+<h3>CONECT ME</h3>
+
+- **Instagram**: [vladimir_tech](https://www.instagram.com/__dovla___)
+- **Email**: [vladimir.mandic@email.com](mailto:vmandic83@gmail.com)
+- **LinkedIn**: [Vladimir Mandić](https://www.linkedin.com/in/vladimirmandi%C4%87/)
+
 
 Contact Me
 <p align="left">
