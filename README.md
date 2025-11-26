@@ -31,17 +31,19 @@ Development Environments:  Visual Studio, VS Code
 - Implemented using **Clean Architecture**, **ASP.NET Core**, **MediatR**, **FastEndpoints**, and **Angular**.  
 - Focused on creating a scalable and maintainable codebase following best practices.
 
-<h3>CONECT ME</h3>
+<h3>CONNECT ME</h3>
 
 - **Instagram**: [\_\_dovlaa\_\_\_](https://www.instagram.com/__dovlaa___)
 - **Email**: [vmandic83@gmail.com](mailto:vmandic83@gmail.com)
 - **LinkedIn**: [Vladimir Mandić](https://www.linkedin.com/in/vladimirmandi%C4%87/)
 
 
- My Projects  
-- [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking
-- [ Student Services Website](https://github.com/dovla2001/Student-Services-Website) - Designed a website for the student department where three types of users can log in: students, administrators, and professors.
-- [Load Balancing](https://github.com/dovla2001/IKP-Projekat) - Load Balancing in C programming language with Round Robin algorithm.
-- [Information Secirity](https://github.com/dovla2001/OIBIS_Projekat) - A project in Information Security that uses authentication, authorization, and certificates ensures secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
+<h3>MY PROJECTS</h3>
+
+- **Taxi Application** – Multi-layered web application for ride booking.  
+- **Student Services Website** – Designed a website for the student department where three types of users can log in: students, administrators, and professors.  
+- **Load Balancing** – Load Balancing in C programming language with Round Robin algorithm.  
+- **Information Security** – A project in Information Security that uses authentication, authorization, and certificates to ensure secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
+
 
 Feel free to explore my repositories and connect with me!
