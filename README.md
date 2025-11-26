@@ -40,10 +40,11 @@ Development Environments:  Visual Studio, VS Code
 
 <h3>MY PROJECTS</h3>
 
-- **Taxi Application** – Multi-layered web application for ride booking.  
-- **Student Services Website** – Designed a website for the student department where three types of users can log in: students, administrators, and professors.  
-- **Load Balancing** – Load Balancing in C programming language with Round Robin algorithm.  
-- **Information Security** – A project in Information Security that uses authentication, authorization, and certificates to ensure secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
+- [**Taxi Application**](#) – Multi-layered web application for ride booking.  
+- [**Student Services Website**](#) – Designed a website for the student department where three types of users can log in: students, administrators, and professors.  
+- [**Load Balancing**](#) – Load Balancing in C programming language with Round Robin algorithm.  
+- [**Information Security**](#) – A project in Information Security that uses authentication, authorization, and certificates to ensure secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
+
 
 
 Feel free to explore my repositories and connect with me!
