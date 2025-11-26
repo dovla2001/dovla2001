@@ -40,10 +40,10 @@ Development Environments:  Visual Studio, VS Code
 
 <h3>MY PROJECTS</h3>
 
-- [**Taxi Application**](#) – Multi-layered web application for ride booking.  
-- [**Student Services Website**](#) – Designed a website for the student department where three types of users can log in: students, administrators, and professors.  
-- [**Load Balancing**](#) – Load Balancing in C programming language with Round Robin algorithm.  
-- [**Information Security**](#) – A project in Information Security that uses authentication, authorization, and certificates to ensure secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
+- [**Taxi Application**](https://github.com/dovla2001/WEB2) – Multi-layered web application for ride booking.  
+- [**Student Services Website**](https://github.com/dovla2001/Student-Services-Website) – Designed a website for the student department where three types of users can log in: students, administrators, and professors.  
+- [**Load Balancing**](https://github.com/dovla2001/IKP-Projekat) – Load Balancing in C programming language with Round Robin algorithm.  
+- [**Information Security**](https://github.com/dovla2001/OIBIS_Projekat) – A project in Information Security that uses authentication, authorization, and certificates to ensure secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
 
 
 
