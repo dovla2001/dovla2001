@@ -32,6 +32,11 @@ Software Engineering graduate with strong academic and practical experience in w
 - Implemented using **Clean Architecture, ASP.NET Core, MediatR, FastEndpoints**, and **Angular**.  
 - Focused on creating a **scalable** and **maintainable codebase** following best practices.
 
+<h3>EDUCATION</h3>
+
+| Degree / Program | Institution | Duration |
+|-----------------|------------|---------:|
+| Bachelor in Software Engineering | Faculty of Technical Sciences, University of Novi Sad | 2020 – 2025 |
 
 
 <h3>CONNECT ME</h3>
