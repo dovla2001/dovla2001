@@ -24,7 +24,7 @@ Development Environments:  Visual Studio, VS Code
 </pre>
 
 <h3>PROFESSIONAL EXPERIENCE</h3>
-Full Stack Developer Internship  
+### Full Stack Developer Internship  
 **TIAC d.o.o** | July 2025 – August 2025  
 
 - Developed a full-stack web shop application intended for company employees.  
