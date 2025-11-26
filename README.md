@@ -14,14 +14,15 @@ the .NET environment, and contribute to leading-edge and innovative software pro
 </p>
 
 <h3>SKILLS</h3>
-| Category | Technologies |
-|----------|--------------|
-| **Programming Languages** | C, C++, C#, Julia, JavaScript, TypeScript |
-| **Web Development** | HTML, CSS, REST API, JSON, HTTP |
-| **Frameworks & Libraries** | .NET Core / ASP.NET Core, Angular, Entity Framework Core, Swagger |
-| **Databases** | SQL Server |
-| **Version Control** | Git, GitHub, GitLab |
-| **Development Environments** | Visual Studio, VS Code |
+<pre>
+Programming Languages:     C, C++, C#, Julia, JavaScript, TypeScript
+Web Development:           HTML, CSS, REST API, JSON, HTTP
+Frameworks & Libraries:    .NET Core/ASP.NET Core, Angular, EF Core, Swagger
+Databases:                 SQL Server
+Version Control:           Git, GitHub, GitLab
+Development Environments:  Visual Studio, VS Code
+</pre>
+
 
 
 Technologies & Tools  
