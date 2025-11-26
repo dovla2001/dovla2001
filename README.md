@@ -33,7 +33,7 @@ Development Environments:  Visual Studio, VS Code
 
 <h3>CONECT ME</h3>
 
-- **Instagram**: [`__dovlaa___`](https://www.instagram.com/__dovlaa___)
+- **Instagram**: [\_\_dovlaa\_\_\_](https://www.instagram.com/__dovlaa___)
 - **Email**: [vmandic83@gmail.com](mailto:vmandic83@gmail.com)
 - **LinkedIn**: [Vladimir Mandić](https://www.linkedin.com/in/vladimirmandi%C4%87/)
 
