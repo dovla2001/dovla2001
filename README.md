@@ -4,7 +4,7 @@
 </p>
 
 
-About Me  
+<h3>ABOUT ME</h3>  
 <p align="left">
 Software Engineering graduate with a solid academic and practical background in the development of web and desktop
 applications, database communication, and machine learning. Proficient in C , .NET Core, and modern development
