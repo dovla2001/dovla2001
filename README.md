@@ -2,18 +2,16 @@
 
 <p align="center">
   🎓 BSc in Electrical and Computer Engineering, University of Novi Sad <br>
-  💻 Passionate about software development and machine learning <br>
 </p>
 
 ---
 
 ### 💡 About Me  
-I am an aspiring software engineering student with practical experience in developing both web and desktop applications, working with databases, and gaining exposure to machine learning. Through my course of study, I have acquired in-depth knowledge of C#, .NET Core, and modern software development practices like SOLID principles and object-oriented programming. I am particularly passionate about coding web applications using JavaScript and React. Moving forward, I am eager to continue improving my skills in web and desktop application development, with a focus on the .NET platform. My main interests include:  
-- 🧩 **Object-Oriented Programming (OOP)**  
-- 🌐 **Web Development**  
-- 🗃️ **Database Management**  
-- 🤖 **Machine Learning**  
-
+Software Engineering graduate with a solid academic and practical background in the development of web and desktop
+applications, database communication, and machine learning. Proficient in C , .NET Core, and modern development
+practices, including SOLID principles and object-oriented design. Proficient in designing user-centered and performancedriven applications, with an aspiration to develop scalable solutions using both frontend and backend technologies. Particularly interested in modern web development using JavaScript and Angular, and a continued enthusiasm for learning
+and applying best practices. Motivated to further develop skills in web and desktop application development, specifically in
+the .NET environment, and contribute to leading-edge and innovative software projects.
 ---
 
 ### 🔧 Technologies & Tools  
@@ -36,13 +34,6 @@ I am an aspiring software engineering student with practical experience in devel
 
 ---
 
-### 🌱 Currently Learning  
-- Machine Learning Techniques  
-- Backend Development with ASP.NET Core  
-- Improving my English skills  
-
----
-
 ### 📫 Contact Me
 <p align="left">
   <a href="mailto:vmandic83@gmail.com" style="font-size: 18px; text-decoration: none; margin-left: 10px; color: #D14836;">
@@ -56,11 +47,6 @@ I am an aspiring software engineering student with practical experience in devel
   </a>
 </p>
 
----
-
-### 📊 My Top Languages
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovla2001&layout=compact&theme=radical)
 ---
 
 ### 🚀 My Projects  
