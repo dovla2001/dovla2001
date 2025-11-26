@@ -4,7 +4,7 @@
 </p>
 
 
-### 💡 About Me  
+About Me  
 <p align="left">
 Software Engineering graduate with a solid academic and practical background in the development of web and desktop
 applications, database communication, and machine learning. Proficient in C , .NET Core, and modern development
@@ -13,7 +13,7 @@ and applying best practices. Motivated to further develop skills in web and desk
 the .NET environment, and contribute to leading-edge and innovative software projects.
 </p>
 
-### 🔧 Technologies & Tools  
+Technologies & Tools  
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript" width="50" height="50"/>
@@ -30,10 +30,7 @@ the .NET environment, and contribute to leading-edge and innovative software pro
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VisualStudioCode" width="50" height="50"/>
 </p>
 
-
----
-
-### 📫 Contact Me
+Contact Me
 <p align="left">
   <a href="mailto:vmandic83@gmail.com" style="font-size: 18px; text-decoration: none; margin-left: 10px; color: #D14836;">
     vmandic83@gmail.com
@@ -46,14 +43,10 @@ the .NET environment, and contribute to leading-edge and innovative software pro
   </a>
 </p>
 
----
-
-### 🚀 My Projects  
+ My Projects  
 - [Taxi Application](https://github.com/dovla2001/WEB2) - Multi-layered web application for ride booking
 - [ Student Services Website](https://github.com/dovla2001/Student-Services-Website) - Designed a website for the student department where three types of users can log in: students, administrators, and professors.
 - [Load Balancing](https://github.com/dovla2001/IKP-Projekat) - Load Balancing in C programming language with Round Robin algorithm.
 - [Information Secirity](https://github.com/dovla2001/OIBIS_Projekat) - A project in Information Security that uses authentication, authorization, and certificates ensures secure access to resources. It verifies user identity, controls access based on roles, and protects data integrity through encrypted communication.
 
----
-
-⭐️ **Feel free to explore my repositories and connect with me!**
+Feel free to explore my repositories and connect with me!
