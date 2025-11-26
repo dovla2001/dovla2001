@@ -24,7 +24,6 @@ Development Environments:  Visual Studio, VS Code
 </pre>
 
 <h3>PROFESSIONAL EXPERIENCE</h3>
-## 💼 Professional Experience
 
 ### Full Stack Developer Internship  
 **TIAC d.o.o** | July 2025 – August 2025  
