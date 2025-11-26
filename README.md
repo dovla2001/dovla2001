@@ -1,5 +1,4 @@
 <h1 align="center">Vladimir Mandić</h1>
-
 <p align="center">
   Software Engineer | .NET Developer 
 </p>
