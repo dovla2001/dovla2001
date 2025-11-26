@@ -1,10 +1,9 @@
 <h1 align="center">Vladimir Mandić</h1>
 
 <p align="center">
-  Software Engineer | .NET Developer <br>
+  Software Engineer | .NET Developer 
 </p>
 
----
 
 ### 💡 About Me  
 <p align="left">
@@ -14,7 +13,6 @@ practices, including SOLID principles and object-oriented design. Proficient in 
 and applying best practices. Motivated to further develop skills in web and desktop application development, specifically in
 the .NET environment, and contribute to leading-edge and innovative software projects.
 </p>
----
 
 ### 🔧 Technologies & Tools  
 <p align="center">
