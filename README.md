@@ -13,6 +13,17 @@ and applying best practices. Motivated to further develop skills in web and desk
 the .NET environment, and contribute to leading-edge and innovative software projects.
 </p>
 
+<h3>SKILLS</h3>
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | C, C++, C#, Julia, JavaScript, TypeScript |
+| **Web Development** | HTML, CSS, REST API, JSON, HTTP |
+| **Frameworks & Libraries** | .NET Core / ASP.NET Core, Angular, Entity Framework Core, Swagger |
+| **Databases** | SQL Server |
+| **Version Control** | Git, GitHub, GitLab |
+| **Development Environments** | Visual Studio, VS Code |
+
+
 Technologies & Tools  
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET" width="50" height="50"/>
