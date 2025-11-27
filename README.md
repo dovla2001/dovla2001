@@ -7,6 +7,7 @@
 <h3>ABOUT ME</h3>  
 <p align="left">
 Software Engineering graduate with strong academic and practical experience in web and desktop applications, database communication, and machine learning. Proficient in C#, .NET Core, and modern development practices including SOLID principles and OOP design. Experienced in building user-centered and performance-driven applications, with a focus on scalable frontend and backend solutions. Particularly interested in modern web development using JavaScript and Angular, with a continuous drive to learn and apply best practices.
+Open to new opportunities in the software development field, including internships or entry-level positions, where I can apply my knowledge, gain practical experience, and contribute to meaningful projects.
 </p>
 
 <h3>SKILLS</h3>
