@@ -15,7 +15,7 @@ Open to new opportunities in the software development field, including internshi
 
 | Category                  | Skills |
 |---------------------------|-------|
-| **Programming Languages**  | C, C++, C#, JavaScript, TypeScript |
+| **Programming Languages**  | C, C#, JavaScript, TypeScript |
 | **Web Development**        | HTML, CSS, REST API, JSON, HTTP |
 | **Frameworks & Libraries** | .NET Core/ASP.NET Core, Angular, EF Core, Swagger |
 | **Databases**              | SQL Server |
@@ -24,6 +24,11 @@ Open to new opportunities in the software development field, including internshi
 
 
 <h3>PROFESSIONAL EXPERIENCE</h3>
+
+| Position | Duration |
+|----------|---------:|
+| **Software Engineer – PetroMinds** | December 2025 – Prsenet |
+
 
 | Position | Duration |
 |----------|---------:|
