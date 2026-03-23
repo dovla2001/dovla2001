@@ -54,8 +54,6 @@ Open to new opportunities in the software development field, including internshi
 | **LinkedIn**  | [Vladimir Mandić](https://www.linkedin.com/in/vladimirmandi%C4%87/) |
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dovla2001&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovla2001&layout=compact&theme=radical)
 
 
