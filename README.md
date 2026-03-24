@@ -27,7 +27,7 @@ Open to new opportunities in the software development field, including internshi
 
 | Position | Duration |
 |----------|---------:|
-| **Software Engineer – PetroMinds** | December 2025 – Prsenet |
+| **Software Engineer – PetroMinds** | December 2025 – Present |
 
 
 | Position | Duration |
