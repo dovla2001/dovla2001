@@ -20,7 +20,8 @@ Open to new opportunities in the software development field, including internshi
 | **Frameworks & Libraries** | .NET Core/ASP.NET Core, Angular, EF Core, Swagger |
 | **Databases**              | SQL Server |
 | **Version Control**        | Git, GitHub, GitLab |
-| **Development Environments** | Visual Studio, VS Code |
+| **Development Environments** | Visual Studio, VS Code, JetBrains Rider |
+| **Cloud & DevOps**         | Azure, Docker, GitHub Actions |
 
 
 <h3>PROFESSIONAL EXPERIENCE</h3>
