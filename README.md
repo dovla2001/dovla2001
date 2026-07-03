@@ -57,5 +57,7 @@ Open to new opportunities in the software development field, including internshi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovla2001&layout=compact&theme=radical)
 
+![Visits](https://komarev.com/ghpvc/?username=dovla2001)
+
 
 Feel free to explore my repositories and connect with me!
